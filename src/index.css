@@ -1,0 +1,20 @@
+:root {
+  --bg-main: #e0f2fe;        /* light blue (light mode) */
+  --bg-secondary: #bae6fd;
+  --text-heading: #0f172a;
+  --text-normal: #334155;
+  --accent-primary: #2563eb;
+}
+
+.dark {
+  --bg-main: #0B0B10;
+  --bg-secondary: #14141F;
+  --text-heading: #F5F5F7;
+  --text-normal: #A1A1AA;
+  --accent-primary: #8B5CF6;
+  --accent-glow: #A78BFA;
+}
+html{
+  scroll-behavior: smooth;
+}
+
